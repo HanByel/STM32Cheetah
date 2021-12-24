@@ -1,0 +1,12 @@
+stm32f4xx_hal_msp.cpp:67:6:void HAL_MspInit()	8	static
+stm32f4xx_hal_msp.cpp:91:6:void HAL_CAN_MspInit(CAN_HandleTypeDef*)	64	static
+stm32f4xx_hal_msp.cpp:184:6:void HAL_CAN_MspDeInit(CAN_HandleTypeDef*)	8	static
+stm32f4xx_hal_msp.cpp:242:6:void HAL_SPI_MspInit(SPI_HandleTypeDef*)	40	static
+stm32f4xx_hal_msp.cpp:279:6:void HAL_SPI_MspDeInit(SPI_HandleTypeDef*)	0	static
+stm32f4xx_hal_msp.cpp:309:6:void HAL_TIM_Base_MspInit(TIM_HandleTypeDef*)	8	static
+stm32f4xx_hal_msp.cpp:325:6:void HAL_TIM_MspPostInit(TIM_HandleTypeDef*)	32	static
+stm32f4xx_hal_msp.cpp:357:6:void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef*)	0	static
+stm32f4xx_hal_msp.cpp:379:6:void HAL_UART_MspInit(UART_HandleTypeDef*)	40	static
+stm32f4xx_hal_msp.cpp:415:6:void HAL_UART_MspDeInit(UART_HandleTypeDef*)	0	static
+stm32f4xx_hal_msp.cpp:436:1:cpp)	0	static
+stm32f4xx_hal_msp.cpp:436:1:cpp)	0	static

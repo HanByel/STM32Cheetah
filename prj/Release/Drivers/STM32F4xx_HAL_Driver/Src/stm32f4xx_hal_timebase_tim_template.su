@@ -1,0 +1,5 @@
+stm32f4xx_hal_timebase_tim_template.c:55:19:HAL_InitTick	48	static
+stm32f4xx_hal_timebase_tim_template.c:131:6:HAL_SuspendTick	0	static
+stm32f4xx_hal_timebase_tim_template.c:142:6:HAL_ResumeTick	0	static
+stm32f4xx_hal_timebase_tim_template.c:156:6:HAL_TIM_PeriodElapsedCallback	0	static
+stm32f4xx_hal_timebase_tim_template.c:165:6:TIM6_DAC_IRQHandler	0	static

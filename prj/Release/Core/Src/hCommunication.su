@@ -1,0 +1,19 @@
+hCommunication.cpp:22:1:hCommunication::~hCommunication()	0	static
+hCommunication.cpp:22:1:virtual hCommunication::~hCommunication()	8	static
+hCommunication.cpp:19:1:hCommunication::hCommunication()	8	static
+hCommunication.cpp:28:17:static hCommunication& hCommunication::getInstance()	16	static
+hCommunication.cpp:41:6:void hCommunication::MX_CAN1_Init()	8	static,ignoring_inline_asm
+hCommunication.cpp:81:6:void hCommunication::MX_CAN2_Init()	8	static,ignoring_inline_asm
+hCommunication.cpp:125:6:void hCommunication::canSendData(unsigned int, unsigned int, const unsigned char*, unsigned char)	0	static
+hCommunication.cpp:134:7:void hCommunication::canRecieveData()	0	static
+hCommunication.cpp:142:7:posSt hCommunication::canRecievePosData()	8	static
+hCommunication.cpp:154:6:void hCommunication::getPosInt(short int&)	0	static
+hCommunication.cpp:168:6:void hCommunication::uartInit()	8	static,ignoring_inline_asm
+hCommunication.cpp:193:6:void hCommunication::sendUartData(const void*, size_t)	0	static
+hCommunication.cpp:202:6:void hCommunication::receiveUartData()	0	static
+hCommunication.cpp:233:6:void hCommunication::getUartData(char*)	0	static
+hCommunication.cpp:242:6:void hCommunication::testUart()	0	static
+hCommunication.cpp:255:6:void hCommunication::spiInit()	8	static,ignoring_inline_asm
+hCommunication.cpp:278:6:void hCommunication::Error_Handler()	0	static,ignoring_inline_asm
+hCommunication.cpp:287:1:cpp)	0	static
+hCommunication.cpp:287:1:cpp)	0	static

@@ -1,0 +1,11 @@
+hcommon.cpp:16:1:hCommon::~hCommon()	0	static
+hcommon.cpp:16:1:virtual hCommon::~hCommon()	8	static
+hcommon.cpp:11:1:hCommon::hCommon()	16	static
+hcommon.cpp:22:10:static hCommon& hCommon::getInstance()	16	static
+hcommon.cpp:30:6:void hCommon::hTimerFunc(int, float, void* (*)())	0	static
+hcommon.cpp:42:6:void hCommon::convertingtDegree(float, unsigned char*)	0	static
+hcommon.cpp:55:6:void hCommon::getAllDegreeData(int*)	0	static
+hcommon.cpp:64:6:void hCommon::setUartData(char*)	0	static
+hcommon.cpp:77:6:void hCommon::convUart2DegreeData()	0	static
+hcommon.cpp:120:1:cpp)	0	static
+hcommon.cpp:120:1:cpp)	0	static

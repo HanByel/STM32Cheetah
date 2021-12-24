@@ -1,0 +1,4 @@
+hConf.c:8:6:SystemClock_Config	88	static,ignoring_inline_asm
+hConf.c:110:6:HAL_TIM_MspPostInit	32	static
+hConf.c:56:6:MX_TIM2_Init	72	static,ignoring_inline_asm
+hConf.c:142:6:Error_Handler	0	static,ignoring_inline_asm

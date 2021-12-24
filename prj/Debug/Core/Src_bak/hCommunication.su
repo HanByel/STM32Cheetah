@@ -1,0 +1,33 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+hCommunication.cpp:14:1:hCommunication::hCommunication()	16	static
+hCommunication.cpp:19:1:hCommunication::~hCommunication()	16	static
+hCommunication.cpp:19:1:virtual hCommunication::~hCommunication()	16	static
+hCommunication.cpp:25:17:static hCommunication& hCommunication::getInstance()	16	static
+hCommunication.cpp:36:6:void hCommunication::communicationInit()	16	static
+hCommunication.cpp:49:6:void hCommunication::MX_CAN1_Init()	16	static
+hCommunication.cpp:122:6:void hCommunication::MX_CAN2_Init()	16	static
+hCommunication.cpp:185:6:void hCommunication::setCANID(CAN_HandleTypeDef, int)	24	static
+hCommunication.cpp:191:6:void hCommunication::getCANID(CAN_HandleTypeDef&, int)	32	static
+hCommunication.cpp:206:6:void hCommunication::canSendData(unsigned int, unsigned int, const unsigned char*, unsigned char)	24	static
+hCommunication.cpp:215:7:void hCommunication::canRecieveData()	16	static
+hCommunication.cpp:223:7:posSt hCommunication::canRecievePosData()	24	static
+hCommunication.cpp:236:6:void hCommunication::getPosInt(short int&)	24	static
+hCommunication.cpp:250:6:void hCommunication::uartInit()	16	static
+hCommunication.cpp:275:6:void hCommunication::sendUartData(const void*, size_t)	24	static
+hCommunication.cpp:284:6:void hCommunication::receiveUartData()	16	static
+hCommunication.cpp:315:6:void hCommunication::getUartData(char*)	24	static
+hCommunication.cpp:324:6:void hCommunication::testUart()	16	static
+hCommunication.cpp:337:6:void hCommunication::spiInit()	16	static
+hCommunication.cpp:363:6:void hCommunication::getSPIID(SPI_HandleTypeDef&, int)	24	static
+hCommunication.cpp:370:6:void hCommunication::MX_DMA_Init()	24	static
+hCommunication.cpp:389:6:void hCommunication::HAL_DMA_STATE_CHANGE(SPI_HandleTypeDef*)	16	static
+hCommunication.cpp:399:6:void hCommunication::spiDataTxRx(int, uint8_t*, uint8_t*)	24	static
+hCommunication.cpp:415:6:void hCommunication::setSPIrxtxId(DMA_HandleTypeDef&, DMA_HandleTypeDef&, int)	24	static
+hCommunication.cpp:421:6:void hCommunication::getSPIrxtxId(DMA_HandleTypeDef&, DMA_HandleTypeDef&, int)	24	static
+hCommunication.cpp:431:6:void hCommunication::receiveSPIData()	16	static
+hCommunication.cpp:462:6:void hCommunication::getSPIData(char*)	24	static
+hCommunication.cpp:471:6:void hCommunication::testSPI()	16	static
+hCommunication.cpp:482:6:void hCommunication::Error_Handler()	16	static,ignoring_inline_asm
+hCommunication.cpp:491:1:void __static_initialization_and_destruction_0(int, int)	16	static
+hCommunication.cpp:491:1:cpp)	8	static
+hCommunication.cpp:491:1:cpp)	8	static

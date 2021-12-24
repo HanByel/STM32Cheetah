@@ -1,0 +1,15 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+stm32f4xx_hal_msp.cpp:68:6:void HAL_MspInit()	16	static
+stm32f4xx_hal_msp.cpp:91:6:void HAL_CAN_MspInit(CAN_HandleTypeDef*)	56	static
+stm32f4xx_hal_msp.cpp:167:6:void HAL_CAN_MspDeInit(CAN_HandleTypeDef*)	16	static
+stm32f4xx_hal_msp.cpp:227:6:void HAL_SPI_MspInit(SPI_HandleTypeDef*)	240	static
+stm32f4xx_hal_msp.cpp:322:6:void HAL_SPI_MspDeInit(SPI_HandleTypeDef*)	16	static
+stm32f4xx_hal_msp.cpp:360:6:void HAL_UART_MspInit(UART_HandleTypeDef*)	48	static
+stm32f4xx_hal_msp.cpp:396:6:void HAL_UART_MspDeInit(UART_HandleTypeDef*)	16	static
+stm32f4xx_hal_msp.cpp:426:6:void HAL_TIM_OC_MspInit(TIM_HandleTypeDef*)	24	static
+stm32f4xx_hal_msp.cpp:451:6:void HAL_TIM_Base_MspInit(TIM_HandleTypeDef*)	24	static
+stm32f4xx_hal_msp.cpp:476:6:void HAL_TIM_OC_MspDeInit(TIM_HandleTypeDef*)	16	static
+stm32f4xx_hal_msp.cpp:501:6:void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef*)	16	static
+stm32f4xx_hal_msp.cpp:518:1:void __static_initialization_and_destruction_0(int, int)	16	static
+stm32f4xx_hal_msp.cpp:518:1:cpp)	8	static
+stm32f4xx_hal_msp.cpp:518:1:cpp)	8	static

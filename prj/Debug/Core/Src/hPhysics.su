@@ -1,0 +1,8 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+hPhysics.cpp:6:1:hPhysics::hPhysics()	16	static
+hPhysics.cpp:9:1:hPhysics::~hPhysics()	16	static
+hPhysics.cpp:9:1:virtual hPhysics::~hPhysics()	16	static
+hPhysics.cpp:15:11:static hPhysics& hPhysics::getInstance()	16	static
+hPhysics.cpp:20:1:void __static_initialization_and_destruction_0(int, int)	16	static
+hPhysics.cpp:20:1:cpp)	8	static
+hPhysics.cpp:20:1:cpp)	8	static

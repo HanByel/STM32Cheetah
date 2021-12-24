@@ -1,0 +1,7 @@
+htimer.cpp:9:1:hTimer::hTimer()	16	static
+htimer.cpp:14:1:hTimer::~hTimer()	16	static
+htimer.cpp:14:1:virtual hTimer::~hTimer()	16	static
+htimer.cpp:20:9:static hTimer& hTimer::getInstance()	16	static
+htimer.cpp:28:6:void hTimer::TIMinit()	16	static
+htimer.cpp:93:6:void hTimer::getTimerId(TIM_HandleTypeDef&, int)	24	static
+htimer.cpp:99:6:void hTimer::Error_Handler()	16	static,ignoring_inline_asm

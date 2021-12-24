@@ -1,0 +1,15 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+hcommon.cpp:11:1:hCommon::hCommon()	16	static
+hcommon.cpp:16:1:hCommon::~hCommon()	16	static
+hcommon.cpp:16:1:virtual hCommon::~hCommon()	16	static
+hcommon.cpp:22:10:static hCommon& hCommon::getInstance()	16	static
+hcommon.cpp:30:6:void hCommon::hTimerFunc(int, float, void* (*)())	24	static
+hcommon.cpp:42:6:void hCommon::convertingtDegree(float, unsigned char*)	24	static
+hcommon.cpp:55:6:void hCommon::getAllDegreeData(int*)	24	static
+hcommon.cpp:64:6:void hCommon::setUartData(char*)	24	static
+hcommon.cpp:73:6:void hCommon::setSPIData(char*)	24	static
+hcommon.cpp:86:6:void hCommon::convReceivedData2DegreeData(char*)	48	static
+cmath:415:5:constexpr typename __gnu_cxx::__promote_2<_Tp, _Up>::__type std::pow(_Tp, _Up) [with _Tp = int; _Up = int]	24	static
+hcommon.cpp:129:1:void __static_initialization_and_destruction_0(int, int)	16	static
+hcommon.cpp:129:1:cpp)	8	static
+hcommon.cpp:129:1:cpp)	8	static

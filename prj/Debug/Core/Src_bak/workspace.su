@@ -1,0 +1,20 @@
+core_cm4.h:2064:26:uint32_t ITM_SendChar(uint32_t)	16	static,ignoring_inline_asm
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+workspace.cpp:11:5:int _write(int32_t, uint8_t*, int32_t)	32	static
+workspace.cpp:21:6:void motorInit(int, int)	16	static
+workspace.cpp:55:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+workspace.cpp:114:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+workspace.cpp:127:6:void HAL_CAN_RxFifo1MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+workspace.cpp:143:7:void recieveData()	8	static
+workspace.cpp:155:7:void canRecieveMotorData()	8	static
+workspace.cpp:167:7:void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef*)	24	static
+workspace.cpp:177:7:void rCANTest()	4	static
+workspace.cpp:224:6:void canSendMotorData()	8	static
+workspace.cpp:236:6:void MotorCntPos()	24	static
+workspace.cpp:259:6:void testMotorCntTorque()	16	static
+workspace.cpp:294:6:void sCANTest()	48	static
+workspace.cpp:335:6:void testMotorCntPos()	16	static
+workspace.cpp:359:6:void HAL_CAN_ErrorCallback(CAN_HandleTypeDef*)	16	static
+workspace.cpp:362:1:void __static_initialization_and_destruction_0(int, int)	16	static
+workspace.cpp:362:1:cpp)	8	static
+workspace.cpp:362:1:cpp)	8	static

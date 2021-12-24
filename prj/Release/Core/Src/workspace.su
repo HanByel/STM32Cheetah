@@ -1,0 +1,13 @@
+workspace.cpp:49:6:void mainInit()	0	static
+workspace.cpp:57:6:void communicationInit()	8	static
+workspace.cpp:70:6:void motorInit(int, int)	0	static
+workspace.cpp:79:6:void testMotorCntTorque()	32	static
+workspace.cpp:117:6:void MotorCntPos()	32	static
+workspace.cpp:130:6:void testMotorCntPos()	24	static
+workspace.cpp:154:7:void recieveData()	8	static
+workspace.cpp:168:6:void canSendMotorData()	8	static
+workspace.cpp:181:6:void canRecieveMotorData()	8	static
+workspace.cpp:194:6:void SysTick_Handler()	0	static
+workspace.cpp:210:5:int mainLoop()	8	static
+workspace.cpp:230:1:cpp)	0	static
+workspace.cpp:230:1:cpp)	0	static

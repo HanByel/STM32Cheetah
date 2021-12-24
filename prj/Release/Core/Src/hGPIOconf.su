@@ -1,0 +1,6 @@
+hGPIOconf.c:16:6:hInitGPIOC	8	static
+hGPIOconf.c:21:6:hInitGPIOD	8	static
+hGPIOconf.c:25:6:hInitGPIOE	8	static
+hGPIOconf.c:35:6:GPIO_INIT_FUNC	40	static
+hGPIOconf.c:4:6:hInitGPIOA	8	static
+hGPIOconf.c:10:6:hInitGPIOB	8	static

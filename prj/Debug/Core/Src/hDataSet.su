@@ -1,0 +1,19 @@
+core_cm4.h:2064:26:uint32_t ITM_SendChar(uint32_t)	16	static,ignoring_inline_asm
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+hDataSet.cpp:3:5:int _write(int32_t, uint8_t*, int32_t)	32	static
+hDataSet.cpp:13:6:void motorInit(int, int)	16	static
+hDataSet.cpp:45:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+hDataSet.cpp:58:6:void HAL_CAN_RxFifo1MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+hDataSet.cpp:74:7:void recieveData()	8	static
+hDataSet.cpp:86:7:void canRecieveMotorData()	8	static
+hDataSet.cpp:97:7:void rCANTest()	4	static
+hDataSet.cpp:138:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+hDataSet.cpp:178:6:void canSendMotorData()	8	static
+hDataSet.cpp:190:6:void MotorCntPos()	24	static
+hDataSet.cpp:213:6:void testMotorCntTorque()	16	static
+hDataSet.cpp:248:6:void sCANTest()	48	static
+hDataSet.cpp:289:6:void testMotorCntPos()	16	static
+hDataSet.cpp:313:6:void HAL_CAN_ErrorCallback(CAN_HandleTypeDef*)	16	static
+hDataSet.cpp:316:1:void __static_initialization_and_destruction_0(int, int)	16	static
+hDataSet.cpp:316:1:cpp)	8	static
+hDataSet.cpp:316:1:cpp)	8	static
